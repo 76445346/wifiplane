@@ -1,6 +1,6 @@
 #include <WiFi.h>
 #include <WiFiUdp.h>
-
+#这个文件适用于dx-wf24模块 This file is suitable for dx-wf24 module
 #define P_ID 1
 // #define ST_LED  9
 #define L_MOTOR 8
